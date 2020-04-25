@@ -1,5 +1,5 @@
 '''
-Question Code: https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020bdf9
+Question Link: https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020bdf9
 '''
 t = int(input())
 for xyz in range(t):
